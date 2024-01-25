@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/Jkeoma">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jkeoma&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeoma&layout=compact&langs_count=6&theme=transparent"/>
+   <img height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeoma&layout=compact)](https://github.com/Jkeoma/github-readme-stats)"/>
 </div>
     
 <div style="display: inline_block"><br>
